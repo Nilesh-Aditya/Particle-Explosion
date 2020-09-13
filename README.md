@@ -1,5 +1,7 @@
 # Particle-Explosion
 
+<p><b> LINUX INSTALLATIONS </b></p>
+
 <b>Note :</b> Skip this step if you already have the SDL2 development/runtime libraries
 ## Installation
 ```bash
